@@ -37,7 +37,7 @@ Convo is a full-stack, real-time chat application built with Node.js and Socket.
 1.  **Clone the repository:**
     ```bash
     git https://github.com/Yashwanth-B-C/Convo.git
-    cd your-repository
+    cd Convo
     ```
 2.  **Install dependencies:**
     ```bash
@@ -81,26 +81,27 @@ Contributions are welcome\! Please feel free to open an issue or submit a pull r
 
 ## Screenshots
 
-<img width="1054" height="826" alt="Screenshot 2025-08-06 194353" src="https://github.com/user-attachments/assets/49165cc1-f889-4241-8234-e6c5010633b1" />
+<img width="1054" height="826" alt="Screenshot 2025-08-06 194353" src="https://github.com/user-attachments/assets/a47e67c6-98d5-4a53-9c07-19510c424cd3" />
 
-<img width="1794" height="953" alt="Screenshot 2025-08-06 194436" src="https://github.com/user-attachments/assets/bd5a4a3c-54ca-4c5f-9cf1-256dbe029f51" />
+<img width="1794" height="953" alt="Screenshot 2025-08-06 194436" src="https://github.com/user-attachments/assets/5264ffe8-b730-4a8a-96b9-59cd01541a1c" />
 
-<img width="1714" height="835" alt="Screenshot 2025-08-06 194455" src="https://github.com/user-attachments/assets/1b9dc018-f258-469e-9332-e630ea8affe2" />
+<img width="1714" height="835" alt="Screenshot 2025-08-06 194455" src="https://github.com/user-attachments/assets/0fd794b7-3450-417b-b7f3-866a93f82938" />
 
-<img width="1893" height="936" alt="Screenshot 2025-08-06 194702" src="https://github.com/user-attachments/assets/31a421c7-9e16-4b8f-9e19-56db14efa461" />
+<img width="1893" height="936" alt="Screenshot 2025-08-06 194702" src="https://github.com/user-attachments/assets/d7dbcee6-52bd-49fc-8beb-b4571d0bea71" />
 
-<img width="1889" height="816" alt="Screenshot 2025-08-06 194750" src="https://github.com/user-attachments/assets/910e8e46-4543-4822-b367-e34ad8e18b8d" />
+<img width="1889" height="816" alt="Screenshot 2025-08-06 194750" src="https://github.com/user-attachments/assets/bf8d6404-76cd-4350-8257-8f0908c0a260" />
 
-<img width="1912" height="789" alt="Screenshot 2025-08-06 194808" src="https://github.com/user-attachments/assets/c6e06921-8e70-4120-89e2-fad4413f4935" />
+<img width="1912" height="789" alt="Screenshot 2025-08-06 194808" src="https://github.com/user-attachments/assets/23cfae68-33e8-4bc1-938b-1d84a688ba98" />
 
-<img width="1915" height="821" alt="Screenshot 2025-08-06 194903" src="https://github.com/user-attachments/assets/4545e77b-b9f9-4b87-8c95-d0780d0e63b8" />
+<img width="1915" height="821" alt="Screenshot 2025-08-06 194903" src="https://github.com/user-attachments/assets/8f2c9a44-55dd-49be-b406-7c47a5e9a1bd" />
 
-<img width="1911" height="1015" alt="Screenshot 2025-08-06 194957" src="https://github.com/user-attachments/assets/0effea56-3b34-4bfb-a11f-7eb393be1cab" />
+<img width="1911" height="1015" alt="Screenshot 2025-08-06 194957" src="https://github.com/user-attachments/assets/a64c7420-5422-4072-8f55-e8328ba41420" />
 
-<img width="1842" height="857" alt="Screenshot 2025-08-06 195043" src="https://github.com/user-attachments/assets/fd746126-4877-4316-b90e-1aa51b74ea85" />
+<img width="1842" height="857" alt="Screenshot 2025-08-06 195043" src="https://github.com/user-attachments/assets/b394983f-eb1e-43a8-9c5c-a04621802a8c" />
 
-<img width="1905" height="901" alt="Screenshot 2025-08-06 195136" src="https://github.com/user-attachments/assets/a24a4bc9-3f01-4df7-9609-4d67a776119e" />
+<img width="1905" height="901" alt="Screenshot 2025-08-06 195136" src="https://github.com/user-attachments/assets/7f7c27ce-84e2-437d-89da-135bfd15e217" />
 
-<img width="1913" height="935" alt="Screenshot 2025-08-06 195151" src="https://github.com/user-attachments/assets/465ff08f-f846-42f2-86c4-9136a0aac481" />
+<img width="1913" height="935" alt="Screenshot 2025-08-06 195151" src="https://github.com/user-attachments/assets/b52ffdf5-6e79-499d-a345-4e360611668b" />
 
-<img width="1917" height="1025" alt="Screenshot 2025-08-06 195354" src="https://github.com/user-attachments/assets/27d8ed2e-3695-42b2-b92a-b1c30b49f4f9" />
+<img width="1917" height="1025" alt="Screenshot 2025-08-06 195354" src="https://github.com/user-attachments/assets/f59b12df-bdd5-4c95-a0dc-b4d48d6a7d56" />
+
