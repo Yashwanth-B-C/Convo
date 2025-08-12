@@ -36,7 +36,7 @@ Convo is a full-stack, real-time chat application built with Node.js and Socket.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git https://github.com/Yashwanth-B-C/Convo.git
     cd your-repository
     ```
 2.  **Install dependencies:**
